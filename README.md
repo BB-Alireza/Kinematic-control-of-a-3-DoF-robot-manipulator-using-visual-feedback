@@ -1,0 +1,2 @@
+In the 'PERSIS-Eye Synchronization' phase of my MS project, it is crucial to develop a comprehensive understanding of the entire process, addressing various challenges such as lighting and filtering in visual feedback, as well as selecting the appropriate control approach. To expedite my knowledge acquisition in this area, I opted to design and fabricate a robotic manipulator for a relatively simple tracking scenario. Below are pictures of the implemented manipulator:
+
